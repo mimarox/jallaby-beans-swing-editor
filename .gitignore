@@ -1,4 +1,11 @@
+.settings/
+deploy/
+test-output/
 target/
+testbed/
+.checkstyle
+.classpath
+.project
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
